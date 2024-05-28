@@ -1,0 +1,28 @@
+{
+    "id": "11786B60",
+    "path": "~/dicho.cor.x/man/dicho.cor.x.Rd",
+    "project_path": "man/dicho.cor.x.Rd",
+    "type": "r_doc",
+    "hash": "3152409625",
+    "contents": "",
+    "dirty": false,
+    "created": 1675588729929.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "12,309",
+        "scrollLine": "11"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1675590120,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1675590120,
+    "read_only": true,
+    "read_only_alternatives": [
+        "R/dicho_cor_x.R"
+    ]
+}
